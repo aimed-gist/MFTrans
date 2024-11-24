@@ -40,10 +40,10 @@ docker container is available
 │   │       └── tiles_0
 │   │           └── tumor_001
 │   │               ├── metastasis
-│   │               │   ├── tumor_001_metastasis_3808x_3136y_224tilesize_1000tissueLevel_79foregroundLevel.jpg.npy
-│   │               │   ├── tumor_001_metastasis_3808x_3360y_224tilesize_1000tissueLevel_69foregroundLevel.jpg.npy
+│   │               │   ├── tumor_001_metastasis_3808x_3136y_224tilesize_1000tissueLevel_79foregroundLevel.jpg
+│   │               │   ├── tumor_001_metastasis_3808x_3360y_224tilesize_1000tissueLevel_69foregroundLevel.jpg
 │   │               └── non_metastasis
-│   │                   ├── tumor_001_non_metastasis_10304x_14784y_224tilesize_1000tissueLevel_39foregroundLevel.jpg
+│   │                   
 │   ├── cmc
 │   └── paip2019
 ├── DataProcessing
