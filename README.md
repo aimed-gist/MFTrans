@@ -77,9 +77,11 @@ docker container is available
 
 
 ## Citation 
+```
 @inproceedings{your_wacv2025_citation,
   title={MFTrans: Multi-Resolution Fusion Transformer for Robust Tumor Segmentation in Whole Slide Images},
   author={Your Name, Other Authors},
   booktitle={WACV},
   year={2025}
 }
+```
