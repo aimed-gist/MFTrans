@@ -3,6 +3,17 @@
 **MFTrans**: Multi-Resolution Fusion Transformer for Robust Tumor Segmentation in Whole Slide Images  
 (WACV 2025 Accepted 🎉)
 
+## More Information
+
+For further details on our project, please check out the following resources:
+
+- **GitHub Repository**  
+  Visit the [MFTrans GitHub Repository](https://github.com/Gyuang/MFTrans) for the complete code, documentation, and examples.
+
+- **Research Paper**  
+  Read our paper, [MFTrans: A Multi-Resolution Fusion Transformer for Robust Tumor Segmentation in WACV2025](https://openaccess.thecvf.com/content/WACV2025/html/Yang_MFTrans_A_Multi-Resolution_Fusion_Transformer_for_Robust_Tumor_Segmentation_in_WACV_2025_paper.html), for detailed insights into our methodology and experimental results.
+
+Feel free to explore and contribute!
 ---
 
 ## Requirements
